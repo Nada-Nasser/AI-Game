@@ -9,7 +9,7 @@ be achieved.
 
 ### Prerequisites
 
-* You need to have any Python IDE , for example [Spyder IDE] (https://www.spyder-ide.org/)   
+* You need to have any Python IDE , for example [Spyder IDE](https://www.spyder-ide.org/)   
 
 ### Installing
 
