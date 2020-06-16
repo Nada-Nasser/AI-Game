@@ -29,3 +29,10 @@ be achieved.
 
 You Can see many test cases [Here](https://github.com/Nada-Nasser/AI-Game/blob/master/Documentation/Documentation.pdf) .
 
+### NOTES
+* The implemented game running as the Max-player plays his turn optimally using alpha-beta algorithm, and Min-Player play randomly
+* If you want to Make the Min-Player plays his trun optimally too, you can change the boolean in line 17 at [rand_vs_ai_agent.py] (https://github.com/Nada-Nasser/AI-Game/blob/master/SourceCode/rand_vs_ai_agent.py) file to be false.
+```python
+   random_min = False
+```
+ 
